@@ -3,8 +3,13 @@
 int main(){
 
 
+//aula de imprimir nomes (PRATICAS 2)
 
-printf("uga uga uga");
+printf("Julio\n");
+
+
+
+
 
 
 
