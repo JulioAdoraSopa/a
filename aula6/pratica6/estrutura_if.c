@@ -1,4 +1,6 @@
+export PATH=$PATH:/C/'Program Files (x86)/Dev-Cpp/MinGW64/bin'
 #include <stdio.h>
+
 #include <stdlib.h>
 int main(){
 
