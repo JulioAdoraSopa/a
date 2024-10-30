@@ -1,5 +1,7 @@
 #include <stdio.h>
+
 //strings e matrizes
+
 int main (){
 
 
@@ -16,6 +18,12 @@ numeros [7] = 80 //oitava ''
 numeros [8] = 90 // nona ''
 
 //MATRIZ
+
+
+
+
+
+
 
 
 
