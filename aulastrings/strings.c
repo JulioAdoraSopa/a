@@ -5,7 +5,7 @@
 int main (){
 
 
-int numeros 10;// array ou vetor
+int numeros = [10] // array ou vetor
 
 numeros [0] = 10 //primeira posicão
 numeros [1] = 20 //segunda posicão
@@ -17,10 +17,12 @@ numeros [6] = 70 //sétima ''
 numeros [7] = 80 //oitava ''
 numeros [8] = 90 // nona ''
 
-//MATRIZ
 
 
+//MATRIZES codigo: export PATH=$PATH:/c/'Program Files (x86)/Dev-Cpp/MinGW64/bin'
 
+
+//refazer quando chegar em casa.
 
 
 
