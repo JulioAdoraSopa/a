@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main() {
+    
     int numeros[10];
     int maior = -9999999;
     int menor = 9999999;
