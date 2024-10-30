@@ -5,7 +5,7 @@ int main(){
 int n1, n2, result;
 
 char sinal;
-
+//7:28
 
 printf("Digite dois valores");
 scanf("%i", &n1);
