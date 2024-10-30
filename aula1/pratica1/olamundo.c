@@ -8,7 +8,6 @@ int main(){
 
 printf("Ola mundo!");
 
-printf("uga uga uga");
 
 
 
