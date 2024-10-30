@@ -6,9 +6,9 @@
 
 int main(){
 
-printf("Olá mundo!");
+printf("Ola mundo!");
 
-
+printf("uga uga uga");
 
 
 
