@@ -10,7 +10,7 @@
     
     scanf(%i);
 
-    int achou 
+    int achou (-1)
 
 
 
