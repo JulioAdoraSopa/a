@@ -17,6 +17,7 @@ int main() {
  printf("%i ", vetor[i]);
  }
 
+// PAREI NO: I) No corpo da função main(), declare uma variável achou do tipo inteiro atribuindo o valor -1.
 
 
 
