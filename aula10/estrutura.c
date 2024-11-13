@@ -28,7 +28,7 @@ int main (){
 
     enumeração é um conjunto de constantes;
 
-    
+
 
 
 
